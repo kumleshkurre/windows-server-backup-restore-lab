@@ -111,6 +111,7 @@ If you see an error like **Windows Server Backup failure / not detected**, it me
 Bachelor of Computer Applications (BCA) – Pursuing  
 IT Support & Networking Enthusiast  
 
----
+## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
 
-⭐ If you find this project helpful, please give it a star on GitHub.
